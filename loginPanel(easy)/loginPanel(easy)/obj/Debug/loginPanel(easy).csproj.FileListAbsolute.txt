@@ -1,0 +1,10 @@
+C:\Users\recep\source\repos\loginPanel(easy)\loginPanel(easy)\bin\Debug\loginPanel(easy).exe.config
+C:\Users\recep\source\repos\loginPanel(easy)\loginPanel(easy)\bin\Debug\loginPanel(easy).exe
+C:\Users\recep\source\repos\loginPanel(easy)\loginPanel(easy)\bin\Debug\loginPanel(easy).pdb
+C:\Users\recep\source\repos\loginPanel(easy)\loginPanel(easy)\obj\Debug\loginPanel(easy).csprojAssemblyReference.cache
+C:\Users\recep\source\repos\loginPanel(easy)\loginPanel(easy)\obj\Debug\loginPanel_easy_.Form1.resources
+C:\Users\recep\source\repos\loginPanel(easy)\loginPanel(easy)\obj\Debug\loginPanel_easy_.Properties.Resources.resources
+C:\Users\recep\source\repos\loginPanel(easy)\loginPanel(easy)\obj\Debug\loginPanel(easy).csproj.GenerateResource.cache
+C:\Users\recep\source\repos\loginPanel(easy)\loginPanel(easy)\obj\Debug\loginPanel(easy).csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\loginPanel(easy)\loginPanel(easy)\obj\Debug\loginPanel(easy).exe
+C:\Users\recep\source\repos\loginPanel(easy)\loginPanel(easy)\obj\Debug\loginPanel(easy).pdb
