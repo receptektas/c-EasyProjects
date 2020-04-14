@@ -1,0 +1,10 @@
+C:\Users\recep\source\repos\passengerRegister(airline)\passengerRegister(airline)\bin\Debug\passengerRegister(airline).exe.config
+C:\Users\recep\source\repos\passengerRegister(airline)\passengerRegister(airline)\bin\Debug\passengerRegister(airline).exe
+C:\Users\recep\source\repos\passengerRegister(airline)\passengerRegister(airline)\bin\Debug\passengerRegister(airline).pdb
+C:\Users\recep\source\repos\passengerRegister(airline)\passengerRegister(airline)\obj\Debug\passengerRegister(airline).csprojAssemblyReference.cache
+C:\Users\recep\source\repos\passengerRegister(airline)\passengerRegister(airline)\obj\Debug\passengerRegister_airline_.Form1.resources
+C:\Users\recep\source\repos\passengerRegister(airline)\passengerRegister(airline)\obj\Debug\passengerRegister_airline_.Properties.Resources.resources
+C:\Users\recep\source\repos\passengerRegister(airline)\passengerRegister(airline)\obj\Debug\passengerRegister(airline).csproj.GenerateResource.cache
+C:\Users\recep\source\repos\passengerRegister(airline)\passengerRegister(airline)\obj\Debug\passengerRegister(airline).csproj.CoreCompileInputs.cache
+C:\Users\recep\source\repos\passengerRegister(airline)\passengerRegister(airline)\obj\Debug\passengerRegister(airline).exe
+C:\Users\recep\source\repos\passengerRegister(airline)\passengerRegister(airline)\obj\Debug\passengerRegister(airline).pdb
